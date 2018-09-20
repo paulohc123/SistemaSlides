@@ -1,0 +1,1 @@
+<?php require("sessao.php");include("cabecalho.php"); $intervalo=5000;$modo="true";  ?>
